@@ -7,4 +7,11 @@
 - For finding problems I will use different problem solving websites.
 - I am setting 10 milestones for this and I will set the name and goal before starting it.
 
-### Milestone-1: Mastering JS Array and Object methods
+### Milestone-1: Mastering JS Array and Object methods🚀
+
+###### Goals:
+
+1. To revise the basics.
+2. To dive deep on their workflow.
+3. Solve 20 problems.
+4. Use them on complex scenarios
