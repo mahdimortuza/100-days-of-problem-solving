@@ -24,5 +24,10 @@ fruitsSplice.splice(0, 2,)
 
 // array.slice()
 const fruitsSlice = ["banana", "coconut", "apple", "kiwi", "pineapple", "grave"]
-const result = fruitsSlice.slice(1, 3)
+// const result = fruitsSlice.slice(1, 3)
+// console.log(result)
+
+
+const fruitsToString = ["banana", "coconut", "apple", "kiwi", "pineapple", "grave"]
+const result = fruitsToString.toString()
 console.log(result)
